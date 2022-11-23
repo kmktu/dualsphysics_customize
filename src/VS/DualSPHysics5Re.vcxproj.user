@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments> -name C:/Users/mgkang.DI-SOLUTION/Desktop/KANG/PYcharm_project/git/FreeCad/Wave/Wave_out/Wave -dirout C:/Users/mgkang.DI-SOLUTION/Desktop/KANG/PYcharm_project/git/FreeCad/Wave/Wave_out/ -gpu -svres</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>
+    </LocalDebuggerEnvironment>
+    <LocalDebuggerDebuggerType>Auto</LocalDebuggerDebuggerType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments> -name C:/Users/mgkang.DI-SOLUTION/Desktop/KANG/PYcharm_project/git/FreeCad/Wave/Wave_out/Wave -dirout C:/Users/mgkang.DI-SOLUTION/Desktop/KANG/PYcharm_project/git/FreeCad/Wave/Wave_out/ -gpu -svres</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerEnvironment>
+    </LocalDebuggerEnvironment>
+  </PropertyGroup>
+</Project>
